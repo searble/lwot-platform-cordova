@@ -1,0 +1,21 @@
+{
+  "name": "cordova",
+  "plugin": "platform",
+  "version": "0.0.1",
+  "description": "lwot platform ionic",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "proin",
+      "email": "proin@proinlab.com",
+      "web": "http://proinlab.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cross-spawn": "^5.0.1",
+    "fs-extra": "^1.0.0",
+    "open": "0.0.5",
+    "sharp": "^0.16.2"
+  }
+}
