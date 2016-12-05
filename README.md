@@ -1,4 +1,4 @@
-# LWOT Platform - Ionic
+# LWOT Platform - Cordova
 
 ## Install
 
